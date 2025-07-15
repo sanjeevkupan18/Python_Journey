@@ -1,0 +1,2 @@
+import pywhatkit as pyw 
+pyw.sendwhatmsg('+917061335166','Happiest Birthday Dear Musu 💕 , You are Sweet as Honey and Cute as Bunny...stay happy and please stay with me till the destiny takes our Friendship (Abhi Bhot Ladhai Jhagra Karna Baki hai Mere Dost 😁). I am sending you all the love and good vibes from afar. Love you! meri Mahila Mitra 🥳.Distance makes it hard to give you a big Hug 🫂,but still Our special bond can never be broken. HBD! 🐭👂🏻',00,00) #time in 24 hr format
